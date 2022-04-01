@@ -1,0 +1,6 @@
+C:\Visual Studio Projects Github\ykm\YKM.Transfer.WebService\YKM.Transfer.RnD\bin\Debug\YKM.Transfer.RnD.exe.config
+C:\Visual Studio Projects Github\ykm\YKM.Transfer.WebService\YKM.Transfer.RnD\bin\Debug\YKM.Transfer.RnD.exe
+C:\Visual Studio Projects Github\ykm\YKM.Transfer.WebService\YKM.Transfer.RnD\bin\Debug\YKM.Transfer.RnD.pdb
+C:\Visual Studio Projects Github\ykm\YKM.Transfer.WebService\YKM.Transfer.RnD\obj\Debug\YKM.Transfer.RnD.csprojAssemblyReference.cache
+C:\Visual Studio Projects Github\ykm\YKM.Transfer.WebService\YKM.Transfer.RnD\obj\Debug\YKM.Transfer.RnD.exe
+C:\Visual Studio Projects Github\ykm\YKM.Transfer.WebService\YKM.Transfer.RnD\obj\Debug\YKM.Transfer.RnD.pdb

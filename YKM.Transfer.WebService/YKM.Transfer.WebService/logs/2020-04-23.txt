@@ -1,0 +1,57 @@
+ ----------------Info (2020-04-23 16:27:27.2199) -----------------
+ 
+ Call Site: YKM.Transfer.WebService.ykmWebService.PostClCard
+ Exception Type: 
+ Exception Message: 
+ Additional Info: Cari Kart Aktarýmýna Baþlanýyor. Aktarýlacak Kayýt Sayýsý: #1
+
+ ----------------Info (2020-04-23 16:27:27.3079) -----------------
+ 
+ Call Site: YKM.Transfer.WebService.ykmWebService.PostClCard
+ Exception Type: 
+ Exception Message: 
+ Additional Info: Cari Kart Aktarýmý Sýrasýnda Hata Oluþtu. System.ArgumentException: Anahtar sözcük desteklenmiyor: 'qqnc1facfqq9k2cszvysjyszqbayxly6vhpwhc6hopzjatiplil7bm+bm4tgaqmrle4tzslldpjuk1wz3ijguzbitokruwybxjzhkqytqpy'.
+   konum: System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   konum: System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   konum: System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   konum: System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   konum: System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   konum: System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   konum: System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   konum: System.Data.SqlClient.SqlConnection..ctor(String connectionString, SqlCredential credential)
+   konum: System.Data.SqlClient.SqlConnection..ctor(String connectionString)
+   konum: YKM.Transfer.ILibrary.DbManager.LogClCard(List`1 clCardList) C:\Visual Studio Projects Github\ykm\YKM.Transfer.WebService\YKM.Transfer.ILibrary\DbManager.cs içinde: satýr 189
+   konum: YKM.Transfer.WebService.ykmWebService.PostClCard(List`1 clCardList, ModelUser user) C:\Visual Studio Projects Github\ykm\YKM.Transfer.WebService\YKM.Transfer.WebService\ykmWebService.asmx.cs içinde: satýr 49 - Anahtar sözcük desteklenmiyor: 'qqnc1facfqq9k2cszvysjyszqbayxly6vhpwhc6hopzjatiplil7bm+bm4tgaqmrle4tzslldpjuk1wz3ijguzbitokruwybxjzhkqytqpy'.
+
+ ----------------Info (2020-04-23 16:28:32.4864) -----------------
+ 
+ Call Site: YKM.Transfer.WebService.ykmWebService.PostClCard
+ Exception Type: 
+ Exception Message: 
+ Additional Info: Cari Kart Aktarýmýna Baþlanýyor. Aktarýlacak Kayýt Sayýsý: #1
+
+ ----------------Info (2020-04-23 16:28:38.3542) -----------------
+ 
+ Call Site: YKM.Transfer.WebService.ykmWebService.PostClCard
+ Exception Type: 
+ Exception Message: 
+ Additional Info: Cari Kart Aktarýmý Sýrasýnda Hata Oluþtu. System.ArgumentException: Anahtar sözcük desteklenmiyor: 'qqnc1facfqq9k2cszvysjyszqbayxly6vhpwhc6hopzjatiplil7bm+bm4tgaqmrle4tzslldpjuk1wz3ijguzbitokruwybxjzhkqytqpy'.
+   konum: System.Data.Common.DbConnectionOptions.ParseInternal(Hashtable parsetable, String connectionString, Boolean buildChain, Hashtable synonyms, Boolean firstKey)
+   konum: System.Data.Common.DbConnectionOptions..ctor(String connectionString, Hashtable synonyms, Boolean useOdbcRules)
+   konum: System.Data.SqlClient.SqlConnectionString..ctor(String connectionString)
+   konum: System.Data.SqlClient.SqlConnectionFactory.CreateConnectionOptions(String connectionString, DbConnectionOptions previous)
+   konum: System.Data.ProviderBase.DbConnectionFactory.GetConnectionPoolGroup(DbConnectionPoolKey key, DbConnectionPoolGroupOptions poolOptions, DbConnectionOptions& userConnectionOptions)
+   konum: System.Data.SqlClient.SqlConnection.ConnectionString_Set(DbConnectionPoolKey key)
+   konum: System.Data.SqlClient.SqlConnection.set_ConnectionString(String value)
+   konum: System.Data.SqlClient.SqlConnection..ctor(String connectionString, SqlCredential credential)
+   konum: System.Data.SqlClient.SqlConnection..ctor(String connectionString)
+   konum: YKM.Transfer.ILibrary.DbManager.LogClCard(List`1 clCardList) C:\Visual Studio Projects Github\ykm\YKM.Transfer.WebService\YKM.Transfer.ILibrary\DbManager.cs içinde: satýr 189
+   konum: YKM.Transfer.WebService.ykmWebService.PostClCard(List`1 clCardList, ModelUser user) C:\Visual Studio Projects Github\ykm\YKM.Transfer.WebService\YKM.Transfer.WebService\ykmWebService.asmx.cs içinde: satýr 49 - Anahtar sözcük desteklenmiyor: 'qqnc1facfqq9k2cszvysjyszqbayxly6vhpwhc6hopzjatiplil7bm+bm4tgaqmrle4tzslldpjuk1wz3ijguzbitokruwybxjzhkqytqpy'.
+
+ ----------------Info (2020-04-23 16:29:05.0440) -----------------
+ 
+ Call Site: YKM.Transfer.WebService.ykmWebService.PostClCard
+ Exception Type: 
+ Exception Message: 
+ Additional Info: Cari Kart Aktarýmýna Baþlanýyor. Aktarýlacak Kayýt Sayýsý: #1
+
